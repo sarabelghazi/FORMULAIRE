@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+body{
+    background-color:#6E5DC5;
+
+}
+.row{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 20px ;
+    margin-left: 300px;
+}
+.frm{
+   margin-top: 30px;
+}
+button{
+    margin: 20px 0px 0px 10px;
+    border-radius: 20px;
+    border: none;
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(171,59,191,1) 100%);
+font-family: 'Fasthand', cursive;
+}
+.eye{
+    position: relative;
+}
+i{
+    position: absolute;
+    top:5px;
+    left:160px;
+
+}
+img{
+    width: 238px;
+    height: 500px;
+   border-radius: 0 20px 20px 0 ;
+}
+input{
+    border-radius: 20px;
+}
+label{
+    font-family: 'Fasthand', cursive;
+    font-size: 20px;
+}
+p{
+    font-family: 'Fasthand', cursive;
+}
